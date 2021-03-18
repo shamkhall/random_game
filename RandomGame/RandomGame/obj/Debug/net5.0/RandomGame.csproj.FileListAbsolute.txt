@@ -1,0 +1,16 @@
+C:\Workspace\random_game\RandomGame\RandomGame\bin\Debug\net5.0\RandomGame.exe
+C:\Workspace\random_game\RandomGame\RandomGame\bin\Debug\net5.0\RandomGame.deps.json
+C:\Workspace\random_game\RandomGame\RandomGame\bin\Debug\net5.0\RandomGame.runtimeconfig.json
+C:\Workspace\random_game\RandomGame\RandomGame\bin\Debug\net5.0\RandomGame.runtimeconfig.dev.json
+C:\Workspace\random_game\RandomGame\RandomGame\bin\Debug\net5.0\RandomGame.dll
+C:\Workspace\random_game\RandomGame\RandomGame\bin\Debug\net5.0\ref\RandomGame.dll
+C:\Workspace\random_game\RandomGame\RandomGame\bin\Debug\net5.0\RandomGame.pdb
+C:\Workspace\random_game\RandomGame\RandomGame\obj\Debug\net5.0\RandomGame.csprojAssemblyReference.cache
+C:\Workspace\random_game\RandomGame\RandomGame\obj\Debug\net5.0\RandomGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\random_game\RandomGame\RandomGame\obj\Debug\net5.0\RandomGame.AssemblyInfoInputs.cache
+C:\Workspace\random_game\RandomGame\RandomGame\obj\Debug\net5.0\RandomGame.AssemblyInfo.cs
+C:\Workspace\random_game\RandomGame\RandomGame\obj\Debug\net5.0\RandomGame.csproj.CoreCompileInputs.cache
+C:\Workspace\random_game\RandomGame\RandomGame\obj\Debug\net5.0\RandomGame.dll
+C:\Workspace\random_game\RandomGame\RandomGame\obj\Debug\net5.0\ref\RandomGame.dll
+C:\Workspace\random_game\RandomGame\RandomGame\obj\Debug\net5.0\RandomGame.pdb
+C:\Workspace\random_game\RandomGame\RandomGame\obj\Debug\net5.0\RandomGame.genruntimeconfig.cache
